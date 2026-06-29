@@ -2,23 +2,23 @@
 
 Eine kleine Sammlung theokratischer Projekte und ähnlicher spiritueller Ideen.
 
-![GitHub License](https://img.shields.io/github/license/kreier/theocracy)
-![GitHub Release](https://img.shields.io/github/v/release/kreier/theocracy)
+![GitHub License](https://img.shields.io/github/license/kreier/theokratie)
+![GitHub Release](https://img.shields.io/github/v/release/kreier/theokratie)
 
-Loose collection of organizational bits and study projects. [Link to github project](https://github.com/kreier/theocracy)
+Lose Sammlung von Organisationsfragmenten und Studienprojekten. [Link zum GitHub-Projekt](https://github.com/kreier/theokratie)
 
-## Bookstudy
+## Buchstudium
 
-I joined the bookstudy in private homes as one hour session in addition to the midweek meeting and weekend meeting in the 1980s. Most of the time we studied a book, but sometimes we also considered a brochure. With opening and closing prayer the time was about 55 minutes. 
+In den 1980er Jahren nahm ich zusätzlich zu den wöchentlichen Treffen unter der Woche und am Wochenende an einer einstündigen Buchstudie in Privathäusern teil. Meistens befassten wir uns mit einem Buch, manchmal aber auch mit einer Broschüre. Mit Eröffnungs- und Schlussgebet dauerte die Studie etwa 55 Minuten.
 
-In January 2009 we included the bookstudy into the midweek meeting. Before that it was a separate meeting, held in small groups in private homes througout the territory. The midweek meeting stayed at 2 hours, but the **Theocratic Ministry School** and the **Service Meeting** had to be reduced by 25 minutes. See what we studied and how many pages on average ([graph as pdf](docs/bookstudy_graph.pdf)):
+Im Januar 2009 integrierten wir die Buchstudie in die wöchentlichen Treffen. Zuvor fand sie als separates Treffen in kleinen Gruppen in Privathäusern im ganzen Gebiet statt. Die wöchentlichen Treffen dauerten weiterhin zwei Stunden, die **Theokratische Predigtdienstschule** und die **Dienstzusammenkunft** mussten jedoch um 25 Minuten gekürzt werden. Eine Übersicht über die behandelten Themen und die durchschnittliche Seitenzahl finden Sie in der Grafik ([PDF-Datei](docs/bookstudy_graph.pdf)).
 
 ![Bookstudy graph](docs/bookstudy_graph.svg)
 
-**Explanation:** <span style="color:blue">Blue is a book</span>, <span style="color:green">green is a brochure</span>. The <span style="color:red">red books</span> are used to support bible studies we conduct. In order to have each publisher be familiar with the current tool we study each part together in our midweek meetings. Some publications have been studied more than once, indicated by a darker blue:
+**Erläuterung:** <span style="color:blue">Blau steht für ein Buch</span>, <span style="color:green">Grün für eine Broschüre.</span>. Die <span style="color:red">roten Bücher</span> dienen der Unterstützung unserer Bibelstudien. Damit jeder Verlag mit dem jeweiligen Material vertraut ist, studieren wir die einzelnen Teile gemeinsam in unseren wöchentlichen Treffen. Einige Publikationen wurden bereits mehrfach behandelt und sind durch ein dunkleres Blau gekennzeichnet.
 
-- 4x Revelation​—Its Grand Climax At Hand! (1989, 1991, 1994, 2007)
-- 2x The Bible​—God’s Word or Man’s? (1990, 1998)
+- 4x Revelation ​— Its Grand Climax At Hand! (1989, 1991, 1994, 2007)
+- 2x The Bible​ — God’s Word or Man’s? (1990, 1998)
 - 3x The Greatest Man Who Ever Lived (1992, 1996, 1999)
 - 2x Pay Attention to Daniel’s Prophecy! (2000, 2005)
 - 2x Draw Close to Jehovah (2004, 2014)
